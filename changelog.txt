@@ -7,7 +7,7 @@
 👉 OpenMoji 12.2 - XX XXX 2020
 
 New:
-+ Emoji 13: Transgender Flag, Anatomical Heart, Lungs, People Hugging
++ Emoji 13: Transgender Flag, Anatomical Heart, Lungs, People Hugging, Polar Bear
 + Horse Riding
 + Gender neutral persons and person-roles to fulfil Unicode Emoji 12.1:
   1F9D1-200D-1F9B0, 1F9D1-200D-1F9B1, 1F9D1-200D-1F9B3, 1F9D1-200D-1F9B2,
@@ -22,7 +22,7 @@ New:
   E313, E314, E315, E316, E318, E319, E320, E321, E322, E324, E325, E326,
   E327, E328, E329 by Tonia Reinhardt and Fanny Jung
 + New extras-openmoji/climate-environment (27):
-  E2C0, E2C1, E2C2, E2C3, E2C4, E2C5, E2C6, E2C7, E2C8, E2C9, E2CA, E2CB, E2CC,
+  E2C0, E2C1, E2C2, E2C3, E2C4, E2C6, E2C7, E2C8, E2C9, E2CA, E2CB, E2CC,
   E2CD, E2CE, E2CF, E2D0, E2D1, E2D2, E2D3, E2D4, E2D5, E2D6, E2D7, E2D8, E2D9,
   E2DA by Sina Grund, Ricarda Krejci and Robin Kurz
 + Hacker Cat 1F431-200D-1F4BB
