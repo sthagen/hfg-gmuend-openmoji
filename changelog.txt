@@ -7,7 +7,9 @@
 👉 OpenMoji 12.2 - XX XXX 2020
 
 New:
-+ Emoji 13: Transgender Flag, Anatomical Heart, Lungs, People Hugging, Polar Bear, Blueberries, Long Drum, Tamale, Pinata, Flatbread
++ Emoji 13: Transgender Flag, Anatomical Heart, Lungs, People Hugging, Polar Bear,
+ Blueberries, Long Drum, Tamale, Pinata, Flatbread, Pickup Truck, Disguised Face,
+ Smiling Face with Tear
 + Horse Riding
 + Gender neutral persons and person-roles to fulfil Unicode Emoji 12.1:
   1F9D1-200D-1F9B0, 1F9D1-200D-1F9B1, 1F9D1-200D-1F9B3, 1F9D1-200D-1F9B2,
