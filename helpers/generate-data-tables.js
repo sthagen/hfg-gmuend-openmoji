@@ -77,7 +77,7 @@ emojis = _.map(emojis, e => {
     hexcode: e.hexcode,
     group: groups[e.group],
     subgroups: subgroups[e.subgroup],
-    annotation: e.annotation,
+    annotation: e.label,
     tags: e.tags ? e.tags.join(', ') : '',
     openmoji_tags: enhancements[e.emoji] ? enhancements[e.emoji]['openmoji_tags'] : '',
     openmoji_author: openmoji_author,
@@ -103,7 +103,7 @@ const missingEmojis = _.filter(emojis, (e) => { return e.openmoji_author === '' 
 writeCsv(missingEmojis, 'data/openmoji-emoji-unicode-missing.csv');
 
 // remove all emojis which have not been designed yet
-emojis = _.filter(emojis, (e) => { return e.openmoji_author !== '' });
+const emojisAlreadyDesigned = _.filter(emojis, (e) => { return e.openmoji_author !== '' });
 
 // add extras
 let extrasOpenMoji = loadCsv('./data/extras-openmoji.csv');
@@ -155,8 +155,11 @@ extrasUnicode = _.map(extrasUnicode, e => {
 });
 extrasOpenMoji = _.orderBy(extrasOpenMoji, ['order', 'group', 'subgroups', 'hexcode'], ['asc', 'asc', 'asc', 'asc']);
 extrasUnicode = _.orderBy(extrasUnicode, ['order', 'group', 'subgroups', 'hexcode'], ['asc', 'asc', 'asc', 'asc']);
-emojis = [...emojis, ...extrasOpenMoji, ...extrasUnicode];
+const openmojis = [...emojisAlreadyDesigned, ...extrasOpenMoji, ...extrasUnicode];
 
 // -- save to CSV and JSON files --
-writeJson(emojis, 'data/openmoji.json');
-writeCsv(emojis, 'data/openmoji.csv');
+writeJson(openmojis, 'data/openmoji.json');
+writeCsv(openmojis, 'data/openmoji.csv');
+
+// -- save JSON files for openmoji-tester --
+writeJson([...emojis, ...extrasOpenMoji, ...extrasUnicode], 'data/openmoji-tester.json');
