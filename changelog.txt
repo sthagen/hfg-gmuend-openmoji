@@ -17,6 +17,13 @@ Improvements:
   * 1F383 removed unnecessary points by @yukal #555
   * font/README.md: easy font usage via jsdelivr.com by @jjb #570
 
+Fix:
+  * Updates flag sequences of non rendering extras-openmoji/flags by @SoSeDiK #600
+    Berber Flag to use [ZWJ] between characters
+    True South Flag to use 🏳 + [VS-16] + [ZWJ]+ 🧊 + [ZWJ] + 💎
+    Browncoat Flag and colored Deep Flags to use RGI emoji versions of characters (⚑ -> 🏴, ★ -> ⭐)
+    non-waving White Flag to use 🏳 + [VS-16] + [ZWJ]+ ⬜
+
 --------------------------------------------------------------------------------
 🏖😎 OpenMoji 16.0 - 8 Aug 2025
 
