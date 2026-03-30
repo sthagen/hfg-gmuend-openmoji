@@ -27,6 +27,8 @@ Improvements:
     1F235 🈵, 1F236 🈶, 1F237 🈷, 1F238 🈸, 1F239 🈹, 1F250 🉐, 1F251 🉑,
     3299 ㊙, 3297 ㊗ by @cemoon95 #609
   * Big general overhaul of symbols by @cemoon95 #616
+  * Improved South Korean flag by @cemoon95 #632
+  * Improved 😲😧😞 by @nataliakeniganti #631
 
 Fix:
   * Updates flag sequences of non rendering extras-openmoji/flags by @SoSeDiK #600
