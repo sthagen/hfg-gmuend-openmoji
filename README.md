@@ -48,7 +48,7 @@ You can download, use and "consume" OpenMoji in various ways:
 - [OpenMoji Spritemap Generator](https://github.com/axelpale/openmoji-spritemap-generator): OpenMoji combined to handy sprite images
 - [OpenMoji in Fedora](https://apps.fedoraproject.org/packages/hfg-gmuend-openmoji-fonts): For Fedora 33 and newer, `sudo yum install hfg-gmuend-openmoji-fonts-all`
 - [OpenMoji in JavaFX](https://github.com/pavlobu/emoji-text-flow-javafx): A cross-platform JavaFX library allowing you to replace all standard emoji in extended TextFlow (EmojiTextFlow) with OpenMoji.
-- [OpenMoji Awesome CSS Classes](https://github.com/gromain/openmoji-awesome): "Font Awesome" flavored CSS classes eg. `<i class="oma oma-face-with-monocle"></i>` ready to use for websites.  
+- [OpenMoji Awesome CSS Classes](https://github.com/gromain/openmoji-awesome): "Font Awesome" flavored CSS classes eg. `<i class="oma oma-face-with-monocle"></i>` ready to use for websites.
 - [OpenMoji Flutter](https://pub.dev/packages/flutter_openmoji): OpenMoji usable as Icon for the Flutter framework.
 
 
@@ -85,3 +85,24 @@ Attribution suggestion:
 ² Code licensed under the GNU Lesser General Public License v3 ([LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.en.html))
 
 [![License: LGPL-3.0](https://img.shields.io/badge/License-LGPL%20v3-lightgrey.svg)](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+
+## Citation
+
+If you use OpenMoji in an academic context, please cite it as:
+
+> Groß, B., Utz, D., & The OpenMoji Contributors. (2025). OpenMoji [Dataset]. https://openmoji.org
+
+<details>
+<summary>BibTeX</summary>
+
+```bibtex
+@dataset{openmoji,
+  author  = {Groß, Benedikt and Utz, Daniel and {The OpenMoji Contributors}},
+  title   = {{OpenMoji}},
+  year    = {2018--2025},
+  url     = {https://openmoji.org},
+  note    = {License: CC BY-SA 4.0}
+}
+```
+
+</details>

@@ -2703,6 +2703,23 @@
     "order": 169
   },
   {
+    "emoji": "🫯",
+    "hexcode": "1FAEF",
+    "group": "smileys-emotion",
+    "subgroups": "emotion",
+    "annotation": "fight cloud",
+    "tags": "argument, brawl, debate, disagreement, fight, ruckus, wrestle",
+    "openmoji_tags": "comic, boom, explosion",
+    "openmoji_author": "Natalia Kenig",
+    "openmoji_date": "2026-03-30",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 17,
+    "order": 170
+  },
+  {
     "emoji": "💥",
     "hexcode": "1F4A5",
     "group": "smileys-emotion",
@@ -25379,6 +25396,23 @@
     "skintone_base_hexcode": "",
     "unicode": 14,
     "order": 1890
+  },
+  {
+    "emoji": "🫈",
+    "hexcode": "1FAC8",
+    "group": "people-body",
+    "subgroups": "person-fantasy",
+    "annotation": "hairy creature",
+    "tags": "bigfoot, cryptid, forest, giant, hairy, sasquatch, woodwose, yeti",
+    "openmoji_tags": "chewbacca, star wars, wookiee",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2026-03-31",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 17,
+    "order": 1891
   },
   {
     "emoji": "💆",
@@ -56506,6 +56540,23 @@
     "skintone_base_hexcode": "",
     "unicode": 0.6,
     "order": 4478
+  },
+  {
+    "emoji": "🪎",
+    "hexcode": "1FA8E",
+    "group": "objects",
+    "subgroups": "money",
+    "annotation": "treasure chest",
+    "tags": "gem, gold, jewels, loot, money, prize, silver, valuables, wealth",
+    "openmoji_tags": "pirate",
+    "openmoji_author": "Daniel Utz",
+    "openmoji_date": "2026-03-30",
+    "skintone": "",
+    "skintone_combination": "",
+    "skintone_base_emoji": "",
+    "skintone_base_hexcode": "",
+    "unicode": 17,
+    "order": 4479
   },
   {
     "emoji": "💴",
