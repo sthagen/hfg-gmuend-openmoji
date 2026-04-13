@@ -1,11 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923 10.958h46.154a1.9231 1.9231 0 0 1 1.9231 1.9231v46.154a1.9231 1.9231 0 0 1-1.9231 1.9231h-46.154a1.9231 1.9231 0 0 1-1.9231-1.9231v-46.154a1.923 1.923 0 0 1 1.923-1.923z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
   <g id="color" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
     <path transform="translate(.0001724)" fill="#a57939" stroke="#a57939" d="m46.202 39.731c-0.733 1.2757-1.3785 3.1904-0.9859 5.6868 0.6317 5.9857 6.8171 6.2189 6.7617 12.26-0.962 2.3707-5.7631 3.8879-7.8043 3.8796-2.1165-1.829-1.1868-4.6018 0-6.8829l-0.0357-0.0142c-1.0583-0.388-2.3156-0.6873-3.6882-2.0261-2.2724-2.2165-2.6069-4.6545-3.3351-6.5691l9.0874-6.3342z"/>
     <path transform="translate(.0001724)" fill="#a57939" stroke="#a57939" d="m21.926 36.1c-0.3936 0.6931-1.5171 1.6163-2.7899 2.1022-4.1518-7.7659 9.2727-16.218 9.2727-16.218l1.8008 9.4342c-3.8264 0.4649-6.8035 1.7961-7.189 6-0.3566-0.3356-0.7868-0.7528-1.0945-1.3179z"/>

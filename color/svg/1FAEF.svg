@@ -1,11 +1,4 @@
 <svg id="emoji" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <g id="grid">
-    <path fill="#b3b3b3" d="M68,4V68H4V4H68m4-4H0V72H72V0Z"/>
-    <path fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1" d="m12.923 10.958h46.154a1.9231 1.9231 0 0 1 1.9231 1.9231v46.154a1.9231 1.9231 0 0 1-1.9231 1.9231h-46.154a1.9231 1.9231 0 0 1-1.9231-1.9231v-46.154a1.923 1.923 0 0 1 1.923-1.923z"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <rect x="16" y="4" rx="2.2537" width="40" height="64" transform="translate(72) rotate(90)" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-    <circle cx="36" cy="36" r="29" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width="0.1"/>
-  </g>
   <g id="line-supplement" transform="translate(-14.377 15.352)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
     <path transform="translate(14.333 -15.198)" d="m14.01 52.569-2.856 0.24768-1.4151 2.4931-1.1181-2.6396-2.8083-0.57539 2.1649-1.8791-0.32059-2.8487 2.4561 1.4783 2.6102-1.1852-0.64698 2.7927z"/>
     <path transform="matrix(.73396 -.67919 -.67919 -.73396 64.464 47.592)" d="m14.01 52.569-2.856 0.24768-1.4151 2.4931-1.1181-2.6396-2.8083-0.57539 2.1649-1.8791-0.32059-2.8487 2.4561 1.4783 2.6102-1.1852-0.64698 2.7927z"/>
