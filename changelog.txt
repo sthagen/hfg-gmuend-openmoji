@@ -14,6 +14,10 @@ New:
   + Chess pieces by @nataliakeniganti #605
   + Ontario and Queretaro flag by @jj-marr #627 #628
   + Ballet Dancer, Trombone, Distorted Face by @nataliakeniganti #625
+  + Fight cloud by @nataliakeniganti #636
+  + Treasure chest and hairy creatur by Daniel Utz #636
+  + E06F extras-openmoji facetime by @nataliakeniganti #638
+  + E06E extras-openmoji ecosia browser by @nataliakeniganti #638
 
 Improvements:
   * Emoji 17.0 changes
@@ -36,6 +40,7 @@ Fix:
     True South Flag to use 🏳 + [VS-16] + [ZWJ]+ 🧊 + [ZWJ] + 💎
     Browncoat Flag and colored Deep Flags to use RGI emoji versions of characters (⚑ -> 🏴, ★ -> ⭐)
     non-waving White Flag to use 🏳 + [VS-16] + [ZWJ]+ ⬜
+  * Alabama & Washington DC flag codepoints by @SoSeDiK #639
 
 --------------------------------------------------------------------------------
 🏖😎 OpenMoji 16.0 - 8 Aug 2025
