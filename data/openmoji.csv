@@ -158,6 +158,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💋,1F48B,smileys-emotion,emotion,kiss mark,"dating, emotion, heart, kiss, kissing, lips, mark, romance, sexy",love,Laura Humpfer,2018-04-18,,,,,0.6,167
 💯,1F4AF,smileys-emotion,emotion,hundred points,"100, a+, agree, clearly, definitely, faithful, fleek, full, hundred, keep, perfect, point, score, true, truth, yup","perfect, excellent",Jose Avila,2018-04-18,,,,,0.6,168
 💢,1F4A2,smileys-emotion,emotion,anger symbol,"anger, angry, comic, mad, symbol, upset",,Anne Frauendorf,2018-11-16,,,,,0.6,169
+🫯,1FAEF,smileys-emotion,emotion,fight cloud,"argument, brawl, debate, disagreement, fight, ruckus, wrestle","comic, boom, explosion",Natalia Kenig,2026-03-30,,,,,17,170
 💥,1F4A5,smileys-emotion,emotion,collision,"bomb, boom, collide, comic, explode",explosion,Laura Humpfer,2018-04-18,,,,,0.6,171
 💫,1F4AB,smileys-emotion,emotion,dizzy,"comic, shining, shooting, star, stars",shootingstar,Laura Humpfer,2018-04-18,,,,,0.6,172
 💦,1F4A6,smileys-emotion,emotion,sweat droplets,"comic, drip, droplet, droplets, drops, splashing, squirt, sweat, water, wet, work, workout",,Laura Humpfer,2018-04-18,,,,,0.6,173
@@ -1492,6 +1493,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧟‍♂️,1F9DF-200D-2642-FE0F,people-body,person-fantasy,man zombie,"apocalypse, dead, halloween, horror, man, scary, undead, walking, zombie",,Rifat Erdogan,2019-05-06,,,,,5,1886
 🧟‍♀️,1F9DF-200D-2640-FE0F,people-body,person-fantasy,woman zombie,"apocalypse, dead, halloween, horror, scary, undead, walking, woman, zombie",,Rifat Erdogan,2019-05-06,,,,,5,1888
 🧌,1F9CC,people-body,person-fantasy,troll,"fairy, fantasy, monster, tale, trolling",,Niklas Kuntz,2022-05-09,,,,,14,1890
+🫈,1FAC8,people-body,person-fantasy,hairy creature,"bigfoot, cryptid, forest, giant, hairy, sasquatch, woodwose, yeti","chewbacca, star wars, wookiee",Daniel Utz,2026-03-31,,,,,17,1891
 💆,1F486,people-body,person-activity,person getting massage,"face, getting, headache, massage, person, relax, relaxing, salon, soothe, spa, tension, therapy, treatment","human, person",Johanna Wellnitz,2018-04-18,,single,💆,1F486,0.6,1892
 💆🏻,1F486-1F3FB,people-body,person-activity,person getting massage: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,💆,1F486,1,1893
 💆🏼,1F486-1F3FC,people-body,person-activity,person getting massage: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,💆,1F486,1,1894
@@ -3323,6 +3325,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏷️,1F3F7,objects,book-paper,label,tag,stick,Jonas Roßner,2018-04-18,,,,,0.7,4476
 🪙,1FA99,objects,money,coin,"dollar, euro, gold, metal, money, rich, silver, treasure",,Liz Bravo,2020-07-21,,,,,13,4477
 💰️,1F4B0,objects,money,money bag,"bag, bank, bet, billion, cash, cost, dollar, gold, million, money, moneybag, paid, paying, pot, rich, win",,Marius Schnabel,2018-04-18,,,,,0.6,4478
+🪎,1FA8E,objects,money,treasure chest,"gem, gold, jewels, loot, money, prize, silver, valuables, wealth",pirate,Daniel Utz,2026-03-30,,,,,17,4479
 💴,1F4B4,objects,money,yen banknote,"bank, banknote, bill, currency, money, note, yen",,Marius Schnabel,2018-04-18,,,,,0.6,4480
 💵,1F4B5,objects,money,dollar banknote,"bank, banknote, bill, currency, dollar, money, note",,Marius Schnabel,2018-04-18,,,,,0.6,4481
 💶,1F4B6,objects,money,euro banknote,"100, bank, banknote, bill, currency, euro, money, note, rich",,Marius Schnabel,2018-04-18,,,,,1,4482
