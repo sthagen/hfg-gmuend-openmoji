@@ -158,6 +158,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 💋,1F48B,smileys-emotion,emotion,kiss mark,"dating, emotion, heart, kiss, kissing, lips, mark, romance, sexy",love,Laura Humpfer,2018-04-18,,,,,0.6,167
 💯,1F4AF,smileys-emotion,emotion,hundred points,"100, a+, agree, clearly, definitely, faithful, fleek, full, hundred, keep, perfect, point, score, true, truth, yup","perfect, excellent",Jose Avila,2018-04-18,,,,,0.6,168
 💢,1F4A2,smileys-emotion,emotion,anger symbol,"anger, angry, comic, mad, symbol, upset",,Anne Frauendorf,2018-11-16,,,,,0.6,169
+🫯,1FAEF,smileys-emotion,emotion,fight cloud,"argument, brawl, debate, disagreement, fight, ruckus, wrestle","comic, boom, explosion",Natalia Kenig,2026-03-30,,,,,17,170
 💥,1F4A5,smileys-emotion,emotion,collision,"bomb, boom, collide, comic, explode",explosion,Laura Humpfer,2018-04-18,,,,,0.6,171
 💫,1F4AB,smileys-emotion,emotion,dizzy,"comic, shining, shooting, star, stars",shootingstar,Laura Humpfer,2018-04-18,,,,,0.6,172
 💦,1F4A6,smileys-emotion,emotion,sweat droplets,"comic, drip, droplet, droplets, drops, splashing, squirt, sweat, water, wet, work, workout",,Laura Humpfer,2018-04-18,,,,,0.6,173
@@ -1492,6 +1493,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🧟‍♂️,1F9DF-200D-2642-FE0F,people-body,person-fantasy,man zombie,"apocalypse, dead, halloween, horror, man, scary, undead, walking, zombie",,Rifat Erdogan,2019-05-06,,,,,5,1886
 🧟‍♀️,1F9DF-200D-2640-FE0F,people-body,person-fantasy,woman zombie,"apocalypse, dead, halloween, horror, scary, undead, walking, woman, zombie",,Rifat Erdogan,2019-05-06,,,,,5,1888
 🧌,1F9CC,people-body,person-fantasy,troll,"fairy, fantasy, monster, tale, trolling",,Niklas Kuntz,2022-05-09,,,,,14,1890
+🫈,1FAC8,people-body,person-fantasy,hairy creature,"bigfoot, cryptid, forest, giant, hairy, sasquatch, woodwose, yeti","chewbacca, star wars, wookiee",Daniel Utz,2026-03-31,,,,,17,1891
 💆,1F486,people-body,person-activity,person getting massage,"face, getting, headache, massage, person, relax, relaxing, salon, soothe, spa, tension, therapy, treatment","human, person",Johanna Wellnitz,2018-04-18,,single,💆,1F486,0.6,1892
 💆🏻,1F486-1F3FB,people-body,person-activity,person getting massage: light skin tone,,,Johanna Wellnitz,2018-04-18,1,single,💆,1F486,1,1893
 💆🏼,1F486-1F3FC,people-body,person-activity,person getting massage: medium-light skin tone,,,Johanna Wellnitz,2018-04-18,2,single,💆,1F486,1,1894
@@ -3323,6 +3325,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏷️,1F3F7,objects,book-paper,label,tag,stick,Jonas Roßner,2018-04-18,,,,,0.7,4476
 🪙,1FA99,objects,money,coin,"dollar, euro, gold, metal, money, rich, silver, treasure",,Liz Bravo,2020-07-21,,,,,13,4477
 💰️,1F4B0,objects,money,money bag,"bag, bank, bet, billion, cash, cost, dollar, gold, million, money, moneybag, paid, paying, pot, rich, win",,Marius Schnabel,2018-04-18,,,,,0.6,4478
+🪎,1FA8E,objects,money,treasure chest,"gem, gold, jewels, loot, money, prize, silver, valuables, wealth",pirate,Daniel Utz,2026-03-30,,,,,17,4479
 💴,1F4B4,objects,money,yen banknote,"bank, banknote, bill, currency, money, note, yen",,Marius Schnabel,2018-04-18,,,,,0.6,4480
 💵,1F4B5,objects,money,dollar banknote,"bank, banknote, bill, currency, dollar, money, note",,Marius Schnabel,2018-04-18,,,,,0.6,4481
 💶,1F4B6,objects,money,euro banknote,"100, bank, banknote, bill, currency, euro, money, note, rich",,Marius Schnabel,2018-04-18,,,,,1,4482
@@ -4006,6 +4009,8 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E06B,extras-openmoji,brand,svg,,"logo, svg, drawing, vector, vectorial, drawing",Xavier Martinez,2023-12-04,,,,,,
 ,E06C,extras-openmoji,brand,markdown,,"logo, md, markdown, mark, down, markup, language",Xavier Martinez,2023-12-04,,,,,,
 ,E06D,extras-openmoji,brand,winrar,,"logo, brand, winrar, win, rar",Xavier Martinez,2023-12-04,,,,,,
+,E06E,extras-openmoji,brand,facetime,,"facetime, video call, communication, apple, app, video chat, camera",Natalia Kenig,2026-04-01,,,,,,
+,E06F,extras-openmoji,brand,ecosia browser,,browser,Natalia Kenig,2026-04-01,,,,,,
 ,E070,extras-openmoji,brand,bluesky,,"logo, brand, bluesky, company, social-media",Agriya Khetarpal,2025-08-21,,,,,,
 ,E0FF,extras-openmoji,brand,ubuntu,,Linux,Alexander Müller,2020-04-26,,,,,,
 ,F000,extras-openmoji,brand,windows,,Microsoft,Alexander Müller,2020-04-26,,,,,,
@@ -4219,7 +4224,7 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 ,E186,extras-openmoji,people,man barista,,male,Alexander Müller,2020-05-11,,,,,,
 ,E187,extras-openmoji,people,woman barista,,female,Alexander Müller,2020-05-11,,,,,,
 ,E188,extras-openmoji,people,Greta Thunberg,,"climate change, Sweden, activist, Fridays for Future, FFF",Daniel Utz,2020-06-02,,,,,,
-,E189,extras-openmoji,people,windsurfing,,"windsurfing, watersport, surf, wave, sea", Mostafa Hussein Omar, 2023-10-09,,,,,,
+,E189,extras-openmoji,people,windsurfing,,"windsurfing, watersport, surf, wave, sea", Mostafa Hussein Omar,2023-10-09,,,,,,
 ,E420,extras-openmoji,queer-symbols,pride,,"pride flag, lgbtq, queer, rainbow, gender",Feli Berner,2025-11-19,,,,,,
 ,E421,extras-openmoji,queer-symbols,lesbian,,"pride flag, lgbtq, queer, sapphic, sexuality",Feli Berner,2025-11-19,,,,,,
 ,E422,extras-openmoji,queer-symbols,gay,,"pride flag, lgbtq, queer, achillean, sexuality",Feli Berner,2025-11-19,,,,,,
@@ -4385,7 +4390,6 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🇽,1F1FD,extras-unicode,regional-indicator,regional indicator X,,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,,,,,6,
 🇾,1F1FE,extras-unicode,regional-indicator,regional indicator Y,,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,,,,,6,
 🇿,1F1FF,extras-unicode,regional-indicator,regional indicator Z,,"alphabet, letter, upper case, type",Daniel Utz,2022-06-12,,,,,6,
-🏴󠁡󠁶󠁿,1F3F4-E0061-E0076-E007F,extras-unicode,subdivision-flag,Alabama flag,,alabama,Varvara Kirylchyk,2024-04-04,,,,,?,
 🏴󠁣󠁡󠁯󠁮󠁿,1F3F4-E0063-E0061-E006F-E006E-E007F,extras-unicode,subdivision-flag,ontario flag,,"ontario, canada, province, red ensign",JJ Marr,2026-03-16,,,,,?,
 🏴󠁣󠁡󠁱󠁣󠁿,1F3F4-E0063-E0061-E0071-E0063-E007F,extras-unicode,subdivision-flag,quebec flag,,"fleur-de-lis, quebec, canada, province",Denis Blanchette,2021-02-10,,,,,?,
 🏴󠁤󠁥󠁢󠁥󠁿,1F3F4-E0064-E0065-E0062-E0065-E007F,extras-unicode,subdivision-flag,berlin flag,,"bear, city, capital",Alexander Müller,2020-04-26,,,,,?,
@@ -4413,10 +4417,11 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🏴󠁩󠁴󠁢󠁡󠁿,1F3F4-E0069-E0074-E0062-E0061-E007F,extras-unicode,subdivision-flag,bari flag,,"bari, italy, province, apulia",JJ Marr,2026-03-16,,,,,?,
 🏴󠁭󠁸󠁱󠁵󠁥󠁿,1F3F4-E006D-E0078-E0071-E0075-E0065-E007F,extras-unicode,subdivision-flag,queretaro flag,,"queretaro, mexico, state",Ramb Memburg,2025-12-18,,,,,?,
 🏴󠁭󠁸󠁹󠁵󠁣󠁿,1F3F4-E006D-E0078-E0079-E0075-E0063-E007F,extras-unicode,subdivision-flag,yucatan flag,,"yucatan, mexico, state",Ramb Memburg,2025-12-24,,,,,?,
+🏴󠁵󠁳󠁡󠁬󠁿,1F3F4-E0075-E0073-E0061-E006C-E007F,extras-unicode,subdivision-flag,alabama flag,,"alabama, state",Varvara Kirylchyk,2024-04-04,,,,,?,
 🏴󠁵󠁳󠁣󠁡󠁿,1F3F4-E0075-E0073-E0063-E0061-E007F,extras-unicode,subdivision-flag,california flag,,"bear, republic, state",Alexander Müller,2020-04-26,,,,,?,
 🏴󠁵󠁳󠁣󠁯󠁿,1F3F4-E0075-E0073-E0063-E006F-E007F,extras-unicode,subdivision-flag,colorado flag,,"colorado, mountains, state",Alex Cochran,2024-02-26,,,,,?,
+🏴󠁵󠁳󠁤󠁣󠁿,1F3F4-E0075-E0073-E0064-E0063-E007F,extras-unicode,subdivision-flag,washington dc flag,,"washington, district",Varvara Kirylchyk,2024-02-20,,,,,?,
 🏴󠁵󠁳󠁴󠁸󠁿,1F3F4-E0075-E0073-E0074-E0078-E007F,extras-unicode,subdivision-flag,texas flag,,"cowboy, lone star, republic, state",Carlin MacKenzie,2020-04-03,,,,,?,
-🏴󠁷󠁤󠁣󠁿,1F3F4-E0077-E0064-E0063-E007F,extras-unicode,subdivision-flag,Washington D.C.,,Washington DC,Varvara Kirylchyk,2024-02-20,,,,,?,
 -,002D,extras-unicode,symbol-other,hyphen-minus,,"hyphen, minus, dash, line",Robert Winslow,2022-12-24,,,,,1,
 🄍,1F10D,extras-unicode,symbol-other,circled zero with slash,,"license, copyright, creative commons, open, libre, public domain",Carlin MacKenzie,2020-04-17,,,,,13,
 🄎,1F10E,extras-unicode,symbol-other,circled anticlockwise arrow,,"license, copyright, creative commons, open, libre, share alike",Carlin MacKenzie,2020-04-17,,,,,13,
