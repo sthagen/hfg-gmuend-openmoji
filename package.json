@@ -1,6 +1,6 @@
 {
   "name": "openmoji",
-  "version": "16.0.0",
+  "version": "17.0.0",
   "description": "Open source emojis for designers, developers and everyone else!",
   "homepage": "https://openmoji.org/",
   "main": "index.js",
