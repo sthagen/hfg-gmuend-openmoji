@@ -92,6 +92,8 @@ If you use OpenMoji in an academic context, please cite it as:
 
 > Groß, B., Utz, D., & The OpenMoji Contributors. (2026). OpenMoji [Dataset]. https://openmoji.org
 
+[![DOI](https://zenodo.org/badge/114106318.svg)](https://doi.org/10.5281/zenodo.19704719)
+
 <details>
 <summary>BibTeX</summary>
 
