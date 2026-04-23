@@ -101,6 +101,7 @@ If you use OpenMoji in an academic context, please cite it as:
   title   = {{OpenMoji}},
   year    = {2018--2026},
   url     = {https://openmoji.org},
+  doi     = {10.5281/zenodo.19704720},
   note    = {License: CC BY-SA 4.0}
 }
 ```
